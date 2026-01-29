@@ -180,3 +180,9 @@ h1 {
   border: none;
   box-shadow: 0 0 10px rgb(182, 179, 179);
 }
+
+.error-text {
+  color: red;
+  font-size: 14px;
+  margin-top: 6px;
+}
